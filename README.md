@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ✨ Welcome on my github page ✨  
+ ✨ Welcome to my github page ✨  
 
 - 🌱 I’m currently learning to code with Python and working with github
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oblum/)
