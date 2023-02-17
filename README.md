@@ -3,6 +3,7 @@
  ✨ Welcome to my github page ✨  
 
 - 🌱 I’m currently learning to code with Python and working with github
+- 🔭 Feel free to look at some of the projects I created in my repositories
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oblum/)
 
 Thank you for your visit
