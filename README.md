@@ -5,7 +5,11 @@
 - 🌱 I’m currently learning to code with Python and working with github
 - 📫 How to reach me: 
 
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="oblum" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/oblum?trk=profile-badge">Oliver Blum, CFA</a></div>
+
+
 Thank you for your visit
+
 Oliver
 
 <!--
