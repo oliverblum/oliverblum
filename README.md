@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![HenryFordQuote](https://quotefancy.com/media/wallpaper/1600x900/401840-Henry-Ford-Quote-Anyone-who-keeps-learning-stays-young.jpg)
+![HenryFordQuote](https://quotefancy.com/media/wallpaper/1600x900/401840-Henry-Ford-Quote-Anyone-who-keeps-learning-stays-young.jpg | width=100)
 
